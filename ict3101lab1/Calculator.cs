@@ -46,7 +46,6 @@ namespace ict3101lab1
             if (num1 == 20 & num2 == 0)
             {
                 return 200;
-
             }
             return (num1 + num2);
         }
